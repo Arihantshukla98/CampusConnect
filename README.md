@@ -102,10 +102,7 @@ npm run dev
 ```
 *(This starts the Express server on port 5000 and the Vite frontend on port 5173).*
 
-### 3. Default Admin Credentials
-If you seeded the database using `node seed.js`, the default administrator account is:
-- **Email:** `admin@college.edu.in`
-- **Password:** `@Rihant9889`
+
 
 ---
 

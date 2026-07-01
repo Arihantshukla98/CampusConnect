@@ -255,9 +255,11 @@ For queries, bug reports, or collaboration — reach out at **[arihantshukla24@g
 ---
 
 <div align="center">
-
+---
+<div align="center">
 Made with ☕ for campus communities.
-
+ 
 [![Live Demo](https://img.shields.io/badge/Try%20it%20live-4F46E5?style=for-the-badge)](https://campus-connect-one-indol.vercel.app/)
+ 
 
-</div>
+---
